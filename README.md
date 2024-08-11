@@ -3,8 +3,11 @@
 Greetings Everyone, this is our team Classic_coders. We have developed a file distribution tool for organizations. It uses the following tech stack :
 
 1.Socket Programming (it is used for making client-server architecture in organization)
+
 2.Multicasting (it is used for transferring files between server and 0 or more clients)
+
 3.RUDP (Reliable User Datagram Protocol) (it is used for making reliable connections between server and client)
+
 4.Multithreading (to ensure that multiple files are transferred)
 
 FUNCTIONALITIES :
