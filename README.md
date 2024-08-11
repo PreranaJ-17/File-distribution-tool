@@ -21,22 +21,33 @@ FUNCTIONALITIES :
 STEPS TO RUN PROJECT : Server Side:
 
 1.upload a Python file named as "rudp_server.py" on the server site.
+
 2.open command prompt
+
 3.locate the Python file location
+
 4.run command: python rudp_server.py
+
 5.server will start
 
 Client Side:
 
 1.upload a Python file named as "rudp_client.py" on the client site.
+
 2.open command prompt
+
 3.locate the Python file location
+
 4.run command: python rudp_client.py
+
 5.the client will start to accept the files
 
 REFERENCES :
 
 1.https://www.geeksforgeeks.org/reliable-user-datagram-protocol-rudp/
+
 2.https://ieeexplore.ieee.org/document/9173515
+
 3.https://www.cs.emory.edu/~cheung/Courses/558/Syllabus/14-Multicast/intro.html
+
 4.https://www.ibm.com/docs/en/i/7.3?topic=designs-examples-using-multicasting-af-inet
